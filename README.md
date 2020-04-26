@@ -27,3 +27,4 @@ The image were then be given labels in the console, as exactly as the same label
 
 A couple of testing was held on Xiaomi Mi A1, and the results are pretty impressive, though an improvement shall be made in the future.
 
+![](Screenshot_20200426-145418.png)   ![](Screenshot_20200426-145458.png)
